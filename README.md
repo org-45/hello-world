@@ -10,3 +10,4 @@ Here are the list of collaborators for org45 repo in chronological order.
 8. Ankit Poudel: [ankman007](https://github.com/ankman007)
 9. Rashila Khadka: [rashilakhadka](https://github.com/rashilakhadka)
 10. Ashim Gautam: [Ashimgautam356](https://github.com/Ashimgautam356)
+11. Ongchen Sherpa ([fullstacksherpa](https://github.com/fullstacksherpa))
