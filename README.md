@@ -7,4 +7,7 @@ Here are the list of collaborators for org45 repo in chronological order.
 5. Navin grg: [grgnavin](https://github.com/Grgnavin)
 6. Nar Bahadur Limbu: [decem7](https://github.com/decem7)
 7. Ravi Garbuja Pun: [pfieffer](https://github.com/pfieffer)
-8. Ongchen Sherpa ([fullstacksherpa](https://github.com/fullstacksherpa))
+8. Ankit Poudel: [ankman007](https://github.com/ankman007)
+9. Rashila Khadka: [rashilakhadka](https://github.com/rashilakhadka)
+10. Ashim Gautam: [Ashimgautam356](https://github.com/Ashimgautam356)
+11. Ongchen Sherpa ([fullstacksherpa](https://github.com/fullstacksherpa))
