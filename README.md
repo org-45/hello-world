@@ -11,3 +11,5 @@ Here are the list of collaborators for org45 repo in chronological order.
 9. Rashila Khadka: [rashilakhadka](https://github.com/rashilakhadka)
 10. Ashim Gautam: [Ashimgautam356](https://github.com/Ashimgautam356)
 11. Ongchen Sherpa [fullstacksherpa](https://github.com/fullstacksherpa)
+12. Abiral Shrestha [abiral2057](https://github.com/abiral2057)
+
