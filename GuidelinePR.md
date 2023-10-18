@@ -5,7 +5,7 @@
 
 2. **Fork and Clone the Repository:**
    - Fork the repository you want to contribute to on GitHub.
-   - Clone your forked repository to your local machine using `git clone`.
+   - Clone your forked repository to your local machine using `git clone`
 
 3. **Create a Branch:**
    - Create a new branch for your changes. Naming conventions often follow the issue you're addressing or the feature you're implementing.
