@@ -12,4 +12,4 @@ Here are the list of collaborators for org45 repo in chronological order.
 10. Ashim Gautam: [Ashimgautam356](https://github.com/Ashimgautam356)
 11. Ongchen Sherpa [fullstacksherpa](https://github.com/fullstacksherpa)
 12. Prasiddhi Dahal: [prasiddhi](https://github.com/Prasiddhidahal)
-13. Dilasha Upadhyay: [dilashaupadhyay] (https://github.com/dilashaupadhyay)
+13. Dilasha Upadhyay: [dilashaupadhyay](https://github.com/dilashaupadhyay)
